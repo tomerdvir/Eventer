@@ -1,9 +1,0 @@
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\bin\Debug\PhotosSharingDal.dll.config
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\bin\Debug\PhotosSharingDal.dll
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\bin\Debug\PhotosSharingDal.pdb
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\bin\Debug\EntityFramework.dll
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\bin\Debug\EntityFramework.xml
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\obj\Debug\PhotosSharingDal.dll
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\obj\Debug\PhotosSharingDal.pdb
-C:\Users\Tomer\Documents\Visual Studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\bin\Debug\AWSSDK.dll
-C:\Users\Tomer\documents\visual studio 2012\Projects\GeoPhotosDAL\PhotosSharingDal\obj\Debug\PhotosSharingDal.csprojResolveAssemblyReference.cache
